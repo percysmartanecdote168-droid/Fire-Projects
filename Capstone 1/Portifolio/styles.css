@@ -151,3 +151,13 @@ nav {
 .contacts a:hover {
     color: #ff4500; /* Cold Fire accent color */
 }
+
+/* Submit Button */
+input[type="submit"] {
+    background-color: firebrick;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
